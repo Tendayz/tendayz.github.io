@@ -1,4 +1,4 @@
-## Go: board game
+## Go: Board Game
 ### A logical game with a deep strategic content and simple rules
 
 ### Contacts:
